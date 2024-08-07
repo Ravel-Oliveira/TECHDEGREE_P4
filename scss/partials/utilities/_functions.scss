@@ -1,0 +1,4 @@
+@function multiply($a, $b) {
+    $result: ($a * $b);
+    @return round($result);
+}

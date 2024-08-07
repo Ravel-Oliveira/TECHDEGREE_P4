@@ -16,3 +16,10 @@
 .img-logo {
     @include img-logo;
 }
+
+@media (min-width: $break-l) {
+    .logo {
+        margin-left: initial;
+        margin-right: initial;
+    }
+}
