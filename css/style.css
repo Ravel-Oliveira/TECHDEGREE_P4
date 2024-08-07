@@ -551,52 +551,52 @@ a {
   cursor: pointer;
 }
 
-/* line 16, D:/Github/TREE_HOUSE/UNIT_04/TECHDEGREE_P4/scss/partials/components/_buttons.scss */
+/* line 18, D:/Github/TREE_HOUSE/UNIT_04/TECHDEGREE_P4/scss/partials/components/_buttons.scss */
 .default {
   background-color: #51ddfc;
 }
 
-/* line 18, D:/Github/TREE_HOUSE/UNIT_04/TECHDEGREE_P4/scss/partials/components/_buttons.scss */
+/* line 20, D:/Github/TREE_HOUSE/UNIT_04/TECHDEGREE_P4/scss/partials/components/_buttons.scss */
 .default:hover {
   background-color: #9cecfd;
 }
 
-/* line 23, D:/Github/TREE_HOUSE/UNIT_04/TECHDEGREE_P4/scss/partials/components/_buttons.scss */
+/* line 18, D:/Github/TREE_HOUSE/UNIT_04/TECHDEGREE_P4/scss/partials/components/_buttons.scss */
 .error {
   background-color: #e4757a;
 }
 
-/* line 25, D:/Github/TREE_HOUSE/UNIT_04/TECHDEGREE_P4/scss/partials/components/_buttons.scss */
+/* line 20, D:/Github/TREE_HOUSE/UNIT_04/TECHDEGREE_P4/scss/partials/components/_buttons.scss */
 .error:hover {
   background-color: #f1b5b8;
 }
 
-/* line 30, D:/Github/TREE_HOUSE/UNIT_04/TECHDEGREE_P4/scss/partials/components/_buttons.scss */
+/* line 18, D:/Github/TREE_HOUSE/UNIT_04/TECHDEGREE_P4/scss/partials/components/_buttons.scss */
 .info {
   background-color: #927bc1;
 }
 
-/* line 32, D:/Github/TREE_HOUSE/UNIT_04/TECHDEGREE_P4/scss/partials/components/_buttons.scss */
+/* line 20, D:/Github/TREE_HOUSE/UNIT_04/TECHDEGREE_P4/scss/partials/components/_buttons.scss */
 .info:hover {
   background-color: #bdafd9;
 }
 
-/* line 37, D:/Github/TREE_HOUSE/UNIT_04/TECHDEGREE_P4/scss/partials/components/_buttons.scss */
+/* line 18, D:/Github/TREE_HOUSE/UNIT_04/TECHDEGREE_P4/scss/partials/components/_buttons.scss */
 .success {
   background-color: #63cc82;
 }
 
-/* line 39, D:/Github/TREE_HOUSE/UNIT_04/TECHDEGREE_P4/scss/partials/components/_buttons.scss */
+/* line 20, D:/Github/TREE_HOUSE/UNIT_04/TECHDEGREE_P4/scss/partials/components/_buttons.scss */
 .success:hover {
   background-color: #9ddfb0;
 }
 
-/* line 44, D:/Github/TREE_HOUSE/UNIT_04/TECHDEGREE_P4/scss/partials/components/_buttons.scss */
+/* line 18, D:/Github/TREE_HOUSE/UNIT_04/TECHDEGREE_P4/scss/partials/components/_buttons.scss */
 .warning {
   background-color: #fd7856;
 }
 
-/* line 46, D:/Github/TREE_HOUSE/UNIT_04/TECHDEGREE_P4/scss/partials/components/_buttons.scss */
+/* line 20, D:/Github/TREE_HOUSE/UNIT_04/TECHDEGREE_P4/scss/partials/components/_buttons.scss */
 .warning:hover {
   background-color: #feb4a2;
 }
