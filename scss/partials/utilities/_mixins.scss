@@ -1,0 +1,13 @@
+@mixin img-display {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    max-width: 100%; 
+}
+
+@mixin img-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
