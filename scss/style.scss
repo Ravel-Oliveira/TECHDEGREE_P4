@@ -1,8 +1,13 @@
+//  ------- utilities partials ------- 
 @import 'partials/utilities/variables';
 @import 'partials/utilities/mixins';
 @import 'partials/utilities/functions';
+
+//  ------- base partials ------- 
 @import 'partials/base/normalize';
 @import 'partials/base/typography';
+
+//  ------- components partials ------- 
 @import 'partials/components/grid';
 @import 'partials/components/navigation';
 @import 'partials/components/buttons';
